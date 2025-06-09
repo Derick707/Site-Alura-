@@ -135,4 +135,12 @@ body {
     margin-left: 1em;
 }
 
-.rodape
+.rodape_texto {
+    margin: 1em 0;
+    color: var(--cinza-secundario);
+    font-size: 14px;
+}
+
+.lista_link a: hover {
+    color: var()
+}
