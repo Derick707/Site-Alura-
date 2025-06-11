@@ -93,7 +93,7 @@ body {
     }
 
     .container_descricao {
-        ]padding: 2em;
+        padding: 2em;
     }
 
     .dispositivo_lista {
@@ -140,7 +140,15 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+.lista_link a:houver {
+    color: var(--botao-azul);
+}
 
-.lista_link a: hover {
-    color: var()
+.lista_link a:active {
+    color: purple;
+}
+
+.container_botao:houver {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
 }
